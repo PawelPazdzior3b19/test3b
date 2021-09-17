@@ -1,8 +1,8 @@
 # test3b
 
 ***Moje pierwsze repozetorium***
-1. 1
-1. 2
-1. 3
-    1. e
-    1. z
+1. jeden
+1. dwa
+1. trzy
+    1. trzy jeden
+    1. trzy dwa
